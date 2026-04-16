@@ -1,15 +1,13 @@
 # Hi, I’m Max (@maximbex)
 
-I’m interested in AI, epistemology, systems design, knowledge engineering, philosophy of science, theology, law, and practical software that helps structure complex thinking.
+I’m interested in projects that help structure information technology either based on silicon substrate or biological substrate. My background touches on AI, epistemology, systems design, the philosophy of science, theology, and law — and I'm curious about how these topics can bidirectionally inspire better infrastructure.
 
-I’m currently learning more about local LLM stacks, RAG/Graph RAG, agent architectures, semantic knowledge systems, automation pipelines, and research-oriented tooling.
+- 🔭 **Currently exploring:** Local LLM stacks, RAG/Graph RAG, agent architectures, semantic knowledge systems, and research-oriented tooling.
+- 🛠️ **Familiar with:** Java, HTML/CSS/JS, LaTeX, Python, FileMaker Pro, and macOS/Linux/Windows/Synology environments.
+- 🌱 **Looking to collaborate on:** Open-source projects around local-first AI, conceptual tooling, and software that bridges theory and practice.
 
-I’m looking to collaborate on open-source projects around local-first AI, semantic infrastructure, conceptual tooling, knowledge systems, and software that bridges theory and practice.
+📫 **Reach me:** GitHub Issues / Discussions for now.
+⚡ **Fun fact:** I have a forklift driver's license. Sometimes the most satisfying way to bridge abstraction and implementation is just moving heavy things around in the physical world. 
 
-- 📫 Reach me: GitHub Issues / Discussions for now
-- ⚡ Fun fact: I like building bridges between abstraction and implementation and I have a driving license for fork lifts. 
+💬 Favorite Quote: "Premature optimization is the root of all evil" (Donald E. Knuth)
 
-<!---
-maximbex/maximbex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
