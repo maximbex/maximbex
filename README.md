@@ -2,7 +2,7 @@
 
 I’m interested in projects that help structure information technology either based on silicon substrate or biological substrate. My background touches on AI, epistemology, systems design, the philosophy of science, theology, and law — and I'm curious about how these topics can bidirectionally inspire better infrastructure.
 
-- 🔭 **Currently exploring:** Local LLM stacks, RAG/Graph RAG, agent architectures, semantic knowledge systems, and research-oriented tooling.
+- 🔭 **Currently exploring:** OpenClaw, Local LLM stacks, RAG/Graph RAG, agent architectures, semantic knowledge systems, and research-oriented tooling.
 - 🛠️ **Familiar with:** Java, HTML/CSS/JS, LaTeX, Python, FileMaker Pro, and macOS/Linux/Windows/Synology environments.
 - 🌱 **Looking to collaborate on:** Open-source projects around local-first AI, conceptual tooling, and software that bridges theory and practice.
 
