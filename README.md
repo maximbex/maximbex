@@ -4,7 +4,7 @@ I’m interested in projects that help structure information technology either b
 
 - 🔭 **Currently exploring:** OpenClaw, Local LLM stacks, RAG/Graph RAG, agent architectures, semantic knowledge systems, and research-oriented tooling.
 - 🛠️ **Familiar with:** Java, HTML/CSS/JS, LaTeX, Python, FileMaker Pro, and macOS/Linux/Windows/Synology environments.
-- 🌱 **Looking to collaborate on:** Open-source projects around local-first AI, conceptual tooling, and software that bridges theory and practice.
+- 🌱 **Open to collaborate on:** Open-source projects around local-first AI, conceptual tooling, and software that bridges theory and practice.
 
 📫 **Reach me:** GitHub Issues / Discussions for now.
 ⚡ **Fun fact:** I have a forklift driver's license. Sometimes the most satisfying way to bridge abstraction and implementation is just moving heavy things around in the physical world. 
