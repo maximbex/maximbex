@@ -4,7 +4,7 @@ I’m interested in projects that help structure information technology either b
 
 - **Currently exploring:** Agentic Systems and the preconditions for effective recursive self-improvement, semantic knowledge systems, and research-oriented tooling.
 - **Familiar with:** Java, HTML/CSS/JS, LaTeX, Python, FileMaker Pro, and MacOS/Linux/Windows/Synology environments.
-- **Open to collaborate on:** Any project that focuses on meta-strategic implementaiton of ethically consistent value generation. 
+- **Open to collaborate on:** Any project that focuses on meta-strategic implementation of ethically consistent value generation. 
 
 **Reach me:** GitHub Issues / Discussions for now.
 **Fun fact:** I have a forklift driver's license which I used last time, during a student job (sometimes the most satisfying way to bridge abstraction and implementation is just moving heavy things around in the physical world).
